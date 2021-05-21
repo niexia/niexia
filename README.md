@@ -1,6 +1,6 @@
 ### Hi there 👋
-![Metrics](https://metrics.lecoq.io/niexias)
-
+- 🔭 I’m currently working on a interesting place
+- 🌱 I’m currently learning to to make writing code more enjoyable
 <!--
 **niexias/niexias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
