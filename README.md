@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a interesting place
-- 🌱 I’m currently learning to to make writing code more enjoyable
+- 🔭 I’m currently working on Ads Interface and Platform.
+- 🌱 I’m currently learning to to make writing code more enjoyable.
+- 💬 We are looking for Frontend Engineers,to apply please send us an email to <a href="Mailto:yangjin.im@bytedance.com">yangjin.im</a>.
 <!--
 **niexias/niexias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
