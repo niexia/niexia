@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on TikTok Ads Interface and Platform.
 - 🌱 I’m currently learning to to make coding more enjoyable.
-- 💬 We are looking for Frontend Engineers,to apply please send us an email to <a href="Mailto:yangjin.im@bytedance.com">this address</a>.
+- 💬 We are looking for Frontend Engineers,to apply please send a resume to <a href="Mailto:yangjin.im@bytedance.com">this email</a>.
 <!--
 **niexias/niexias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
