@@ -1,17 +1,19 @@
 ### Hi there 👋
-- 🔭 I’m currently working on TikTok Ads Interface and Platform.
-- 💬 We are looking for Frontend Engineers,to apply please send a resume to <a href="Mailto:yangjin.im@bytedance.com">this email</a>.
-<!--
-**niexias/niexias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm **Jin**. I enjoy building things, exploring technologies, and solving interesting problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently**
+
+Working on TikTok Ads, focusing on business, technology, and engineering. <br/>
+Exploring AI Native Engineering, agent workflows, and AI-powered development. <br/>
+
+**Interested in**
+
+Software Architecture & System Design <br/>
+Engineering Practices & Developer Experience <br/>
+AI Agents & AI-powered Development <br/>
+Open Source & Developer Tools <br/>
+
+**Beyond Code**
+
+Reading, learning, and exploring new ideas. <br/>
